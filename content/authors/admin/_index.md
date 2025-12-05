@@ -44,40 +44,40 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-4803-6200
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Planet Formation
+  - Radio Interferometry
+  - Debris Disks
+  - Astronomy Education
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Astronomy
+    institution: Harvard University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+#    date_start: 2015-09-01
+#    date_end: 2019-06-30
+#    summary: |
+#      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com/thesis.pdf'
+#  - area: MS Computer Science
+#    institution: Carnegie Mellon University
+#    icon: ""
+#    date_start: 2013-09-01
+#    date_end: 2015-05-31
+#    summary: |
+#      GPA: 4.0/4.0
+#
+#      Specialized in machine learning and robotics.
+  - area: BS Astronomy & Physics
+    institution: Yale University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+#    date_start: 2009-09-01
+#    date_end: 2013-05-31
+#    summary: |
+#      GPA: 3.9/4.0
+#
+#      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
@@ -165,4 +165,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am an associate professor of astronomy at Wesleyan University.  Alongside the Disk Detectives, I study planet formation by observing the [disks](https://en.wikipedia.org/wiki/Circumstellar_disc) of gas and dust around young stars using giant radio telescopes like [ALMA](https://www.almaobservatory.org/en/home/).  See what the group is up to on our news page.  There’s more information about some recent and ongoing projects on the research page, or you can check out my recent publications on [ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%3D(author%3A%22Hughes%2C%20A.%20M.%22%20OR%20%20author%3A%22Hughes%2C%20A.%20Meredith%22%20OR%20author%3A%22Hughes%2C%20Meredith%22)%20&sort=date%20desc%2C%20bibcode%20desc).  If you’re curious about the other half of my job, you can also take a look at some of my teaching and outreach work.  If you’re a Wesleyan student interested in doing some planet formation research, please send me an email and we’ll find a time to talk!  
+
+
+
