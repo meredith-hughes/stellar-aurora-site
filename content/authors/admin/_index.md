@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Professor of Astronomy
+role: Associate Professor 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
